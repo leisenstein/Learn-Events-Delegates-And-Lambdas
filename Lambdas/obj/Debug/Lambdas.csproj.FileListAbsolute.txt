@@ -1,0 +1,6 @@
+c:\users\larry\documents\visual studio 2013\Projects\Learn-Events-Delegates-And-Lambdas\Lambdas\bin\Debug\Lambdas.exe.config
+c:\users\larry\documents\visual studio 2013\Projects\Learn-Events-Delegates-And-Lambdas\Lambdas\bin\Debug\Lambdas.exe
+c:\users\larry\documents\visual studio 2013\Projects\Learn-Events-Delegates-And-Lambdas\Lambdas\bin\Debug\Lambdas.pdb
+c:\users\larry\documents\visual studio 2013\Projects\Learn-Events-Delegates-And-Lambdas\Lambdas\obj\Debug\Lambdas.csprojResolveAssemblyReference.cache
+c:\users\larry\documents\visual studio 2013\Projects\Learn-Events-Delegates-And-Lambdas\Lambdas\obj\Debug\Lambdas.exe
+c:\users\larry\documents\visual studio 2013\Projects\Learn-Events-Delegates-And-Lambdas\Lambdas\obj\Debug\Lambdas.pdb

@@ -1,0 +1,6 @@
+c:\users\larry\documents\visual studio 2013\Projects\Learn-Events-Delegates-And-Lambdas\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+c:\users\larry\documents\visual studio 2013\Projects\Learn-Events-Delegates-And-Lambdas\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+c:\users\larry\documents\visual studio 2013\Projects\Learn-Events-Delegates-And-Lambdas\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+c:\users\larry\documents\visual studio 2013\Projects\Learn-Events-Delegates-And-Lambdas\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csprojResolveAssemblyReference.cache
+c:\users\larry\documents\visual studio 2013\Projects\Learn-Events-Delegates-And-Lambdas\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+c:\users\larry\documents\visual studio 2013\Projects\Learn-Events-Delegates-And-Lambdas\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb

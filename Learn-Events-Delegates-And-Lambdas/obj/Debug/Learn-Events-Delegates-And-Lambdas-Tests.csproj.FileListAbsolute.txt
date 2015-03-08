@@ -1,0 +1,5 @@
+c:\users\larry\documents\visual studio 2013\Projects\Learn-Events-Delegates-And-Lambdas\Learn-Events-Delegates-And-Lambdas\bin\Debug\Learn-Events-Delegates-And-Lambdas.dll
+c:\users\larry\documents\visual studio 2013\Projects\Learn-Events-Delegates-And-Lambdas\Learn-Events-Delegates-And-Lambdas\bin\Debug\Learn-Events-Delegates-And-Lambdas.pdb
+c:\users\larry\documents\visual studio 2013\Projects\Learn-Events-Delegates-And-Lambdas\Learn-Events-Delegates-And-Lambdas\obj\Debug\Learn-Events-Delegates-And-Lambdas-Tests.csprojResolveAssemblyReference.cache
+c:\users\larry\documents\visual studio 2013\Projects\Learn-Events-Delegates-And-Lambdas\Learn-Events-Delegates-And-Lambdas\obj\Debug\Learn-Events-Delegates-And-Lambdas.dll
+c:\users\larry\documents\visual studio 2013\Projects\Learn-Events-Delegates-And-Lambdas\Learn-Events-Delegates-And-Lambdas\obj\Debug\Learn-Events-Delegates-And-Lambdas.pdb
