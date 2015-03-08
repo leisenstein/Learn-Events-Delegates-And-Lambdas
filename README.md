@@ -40,6 +40,13 @@ del1(5, WorkType.Golf);
 
 
 
+Module 3 - Lambdas
+Lambdas are just a way of writing delgate code so it is cleaner and simpler.
+Also, you can build expression trees.
+
+Lambdas just define the 'parameters' and the 'anonymous' code block.
+It is just the definition of the code.
+
 
 
 
